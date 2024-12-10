@@ -60,3 +60,6 @@ wp_nav_menu(array(
 } 
 
 add_action('init','my_theme_bootstrap_menu') ;
+
+
+// add_theme_support('post-thumbnails') ;
